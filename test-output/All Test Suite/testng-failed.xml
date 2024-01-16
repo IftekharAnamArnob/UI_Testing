@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="E:/Intelij idea/Selenium(failed)">
+    <classes>
+      <class name="FirstTestCase">
+        <methods>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- FirstTestCase -->
+      <class name="SecondTestCase">
+        <methods>
+          <include name="searchcustomer"/>
+        </methods>
+      </class> <!-- SecondTestCase -->
+    </classes>
+  </test> <!-- E:/Intelij idea/Selenium(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
